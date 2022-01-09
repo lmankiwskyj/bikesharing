@@ -1,6 +1,8 @@
 # NYC_Citibike_Challenge
 Module 14
 
+https://public.tableau.com/views/NYC_Citibike_Challenge_16409901253430/CheckOutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Overview 
 During a recent trip to New York City (NYC), my best friend and I were amazed at how easy and fun it was to use their bike sharing program.  This was our inspiration to start a similar program back home in Des Moines.  Using data from NYC's bike share program, Citibike, we were able to create a set of visualizations to show just how we can model the same program in Iowa.
 
